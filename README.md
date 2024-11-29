@@ -1,3 +1,8 @@
+
+
+## ⚙️ Installation & Setup
+
+```bash
 # Clone the repository
 git clone https://github.com/MUHAMMED-FARIZ-KP/InventoryManagementSystem.git
 cd InventoryManagementSystem
@@ -29,3 +34,4 @@ npm install
 # Access the application Frontend
 npm start
 # Open your browser and navigate to http://localhost:3000
+
